@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroservicioGestionEstudiantesApplication<microservicio-gestion-estudiantes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.altias.microservicio_gestion_estudiantes.MicroservicioGestionEstudiantesApplication",
+            "projectName": "microservicio-gestion-estudiantes",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
